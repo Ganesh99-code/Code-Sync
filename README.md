@@ -91,7 +91,7 @@
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/hemanth4646k/code_sync.git
+   git clone https://github.com/Ganesh99-code/Code-Sync.git
    cd code_sync
    ```
 
@@ -166,14 +166,3 @@ Made with ❤️ by the CodeSathi Team
 </div>
 
 
-## 👥 Contributors  
-
-<div align="center">
-• Hemanth sai Somaraju
-<br>  
-• Aniket Chawardol
-<br>
-• Suyash Patil
-<br>
-• Vishwas Kulkarni
- </div>
