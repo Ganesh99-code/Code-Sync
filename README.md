@@ -92,7 +92,7 @@
 1. Clone the repository
    ```bash
    git clone https://github.com/Ganesh99-code/Code-Sync.git
-   cd code_sync
+   cd Code-Sync
    ```
 
 2. Install dependencies
@@ -159,10 +159,5 @@
 </div>
 
 
-<div align="center">
-
-Made with ❤️ by the CodeSathi Team
-
-</div>
 
 
